@@ -3,7 +3,10 @@ GoKit
 
 Lightweight tween library for Unity aimed at making tweening objects dead simple and completely flexible. The [wiki](https://github.com/prime31/GoKit/wiki) contains some usage information and examples.
 
-
+-----
+Instalation
+You can install this package with Unity package manager by adding this line in your packages
+"com.prime31.tweenme": "https://github.com/zory/GoKit.git#upm"
 
 Meet the GoKit Players
 -----
