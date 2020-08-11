@@ -1,7 +1,7 @@
 {
     "name": "com.prime31.tweenme",
     "displayName": "GoKit",
-    "version": "0.4.0",
-    "unity": "2019.3",
+    "version": "0.4.1",
+    "unity": "2020.1.f1",
     "description": "GoKit for use with the Unity package manager."
 }
