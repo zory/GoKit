@@ -6,7 +6,7 @@ public class PathTweenGUI : BaseDemoGUI
     public Transform cube;
     public Transform optionalLookTarget;
     [SerializeField] private bool LoadScriptableObject = true;
-    [SerializeField] private GoPathSettings Path;
+    [SerializeField] private GoPathSettings Path = default;
 
 
     void Start()
